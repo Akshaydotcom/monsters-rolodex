@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.Header{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
