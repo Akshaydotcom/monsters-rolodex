@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Header{
+  background-color: #f5f4f3;
+}
+
+.Movies{
+  color: #1c1c1c;
+}
